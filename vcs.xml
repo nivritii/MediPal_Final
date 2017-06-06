@@ -42,8 +42,16 @@
           <option name="url" value="https://github.com/nivritii/MediPal_Final.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kartisuri/SmartDoor1.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nivritii/SmartDoor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\MTech2017\MEDIPAL_FINAL_1" />
+    <option name="cloneParentDir" value="C:\Users\rama\Downloads\SmartDoor" />
   </component>
 </application>
